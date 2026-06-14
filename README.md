@@ -53,7 +53,7 @@ The model was trained using passenger demographic and travel-related features to
 
 The dashboard summarizes key survival trends across gender, passenger class, age distribution, and age groups.
 
-![Dashboard](dashboard%20(1).png)
+![Dashboard](dashboard.png)
 
 ## Feature Importance Analysis
 
